@@ -1,2 +1,2 @@
 # jest-another-RPG
-##connect to github
+## connect to github
