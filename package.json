@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Rolo2121/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "inquirer-autocomplete-prompt": "^2.0.0"
   }
 }
